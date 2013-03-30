@@ -1,0 +1,17 @@
+{
+  "name": "googlio",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "dependencies" : {
+    "coffee-script": "*",
+    "irc": "git://github.com/martynsmith/node-irc.git"
+  },
+  "scripts": {
+    "start" : "coffee server.coffee",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
